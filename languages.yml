@@ -1,0 +1,16 @@
+color: "#a270ba"
+ace_mode: julia
+
+Jupyter Notebook:
+	type: markup
+	ace_mode: json
+	color: "#F37626"
+ 	extensions:
+  		- .ipynb
+  	filenames:
+  		- Notebook
+  	aliases:
+  		- IPython Notebook
+KRL:
+  type: programming
+  color: "#28431f"
