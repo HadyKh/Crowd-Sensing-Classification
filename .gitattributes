@@ -1,1 +1,1 @@
-*.ipynb linguist-vendored
+jupyter/*.ipynb linguist-vendored
